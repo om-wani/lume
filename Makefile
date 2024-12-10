@@ -16,5 +16,5 @@ go: build run
 
 clean:
 	@echo "-- Cleaning by Removing executable - gameengine..."
-	@rm gameengine
+	@rm ./gameengine
 	@echo "-- Cleaning Done!"
