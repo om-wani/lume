@@ -4,7 +4,7 @@ CFLAGS = -I/opt/homebrew/include/SDL2 -I"./libs/" -L/opt/homebrew/lib -lSDL2 -lS
 build:
 	@echo "-- Building the executable..."
 	@echo "-- Compiling..."
-	@${CXX} -Wall -std=c++17 Core/core.cpp ${CFLAGS} -o gameengine;
+	@${CXX} -Wall -std=c++17 {Main.cpp,Core/core.cpp} ${CFLAGS} -o gameengine;
 	@echo "-- Compiling Done!"
 
 run:
@@ -18,3 +18,4 @@ clean:
 	@echo "-- Cleaning by Removing executable - gameengine..."
 	@rm ./gameengine
 	@echo "-- Cleaning Done!"
+
