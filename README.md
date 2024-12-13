@@ -1,7 +1,7 @@
 # Lume: 2d gameengine
 
 - [x] **TODO** : display color in background
-- [ ] **TODO** : display static text
+- [x] **TODO** : display static text
 - [ ] **TODO** : display dynamic text in the window in different pos  
 - [ ] **TODO** : display shapes   
 - [ ] **TODO** : display images   
