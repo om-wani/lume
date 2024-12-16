@@ -6,7 +6,7 @@
 class Core{
   private:
     bool isRunning;
-    int RESW = 1280, RESH = 720;
+    bool isFullscreen;
     SDL_Window* window;
     SDL_Renderer* renderer;
     TTF_Font* sans;
@@ -20,8 +20,17 @@ class Core{
     ~Core();
     void Init();
     void Run();
+    void Setup();
     void ProcessInput();
     void Update();
     void Render();
     void Destroy();
+    
+    void toggleFullscreen(SDL_Window* window){
+      isFullscreen = !isFullscreen;
+      SDL_SetWindowFullscreen(window, isFullscreen ? SDL_WINDOW_FULLSCREEN : 0);
+    }
+
+    int winHeight = 720;
+    int winWidth  = 1280;
 };

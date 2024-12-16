@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="buttons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.4019152"
+     inkscape:cx="1113.419"
+     inkscape:cy="532.45063"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#9de49e;fill-opacity:1;stroke:#6db471;stroke-width:12.577;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect2"
+       width="596.85052"
+       height="284.54507"
+       x="860.70166"
+       y="307.46201"
+       ry="91.72773"
+       inkscape:export-filename="rect2.png"
+       inkscape:export-xdpi="126.0088"
+       inkscape:export-ydpi="126.0088" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:0.7;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:518.266;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.577;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1182.7437"
+       y="432.92715"
+       id="text8"
+       transform="matrix(1.1444366,0,0,1.1444366,-485.01537,-51.926795)"><tspan
+         x="1182.7437"
+         y="432.92715"
+         id="tspan3"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan1">Full</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan2">
+</tspan></tspan><tspan
+         x="1182.7437"
+         y="500.12716"
+         id="tspan5"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan4">screen</tspan></tspan></text>
+    <rect
+       style="fill:#9de49e;fill-opacity:1;stroke:#6db471;stroke-width:12.577;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect11"
+       width="596.85052"
+       height="284.54507"
+       x="850.74933"
+       y="648.32996"
+       ry="91.72773"
+       inkscape:export-filename="rect11.png"
+       inkscape:export-xdpi="126.0088"
+       inkscape:export-ydpi="126.0088" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:0.7;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:518.266;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.577;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="1182.7437"
+       y="432.92715"
+       id="text14"
+       transform="matrix(1.1444366,0,0,1.1444366,-494.96772,331.23861)"><tspan
+         x="1182.7437"
+         y="432.92715"
+         id="tspan7"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan6">Escape</tspan></tspan></text>
+  </g>
+</svg>
